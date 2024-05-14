@@ -1,0 +1,16 @@
+.pelicula {
+  background-color: #101010;
+  width: 30vw;
+  height: auto;
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+  gap: 2vh;
+  color: #f2f2f2;
+}
+
+.peliculas {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 3vw;
+}
